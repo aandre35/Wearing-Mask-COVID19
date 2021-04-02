@@ -1,6 +1,6 @@
 # Wearing-Mask-COVID19
 
-The dataset is from [kaggle]{https://www.kaggle.com/crained/wearingmaskc19} : 
+The dataset is from [kaggle](https://www.kaggle.com/crained/wearingmaskc19) : 
 
 The dataset contains 150 images. In each image there are people wearing or not wearing masks. 
 
